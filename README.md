@@ -44,7 +44,7 @@ Ensure your environment meets the following requirements:
 Install dependencies:
 
 ```bash
-git clone https://github.com/OUC-VAS/ForensicsAdapter.git
+git clone https://github.com/YunfeiLi-heng/LGD.git
 cd LGD_Forgery
 conda create -n LGD python=3.9
 conda activate LGD
