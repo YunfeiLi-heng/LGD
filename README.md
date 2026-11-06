@@ -25,7 +25,7 @@ integrates pretrained vision-language models (VLMs) with forgery location estima
 The complete official PyTorch implementation will be made available as soon as the paper is accepted.
 
 <div align="center">
-<img src='LGD.png' width='100%'>
+<img src='./overview.png' width='100%'>
 </div>
 
 
