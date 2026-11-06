@@ -34,13 +34,21 @@ The complete official PyTorch implementation will be made available as soon as t
 ## 🛠️ Installation
 
 
-
 ### Environment
 Ensure your environment meets the following requirements:
 
 - 🐍 Python 3.9
 - 🔥 PyTorch 1.11
 - 🚀 CUDA 11.3
+  
+Install dependencies:
+
+```bash
+git clone https://github.com/OUC-VAS/ForensicsAdapter.git
+cd LGD_Forgery
+conda create -n LGD python=3.9
+conda activate LGD
+sh install.sh
 ```
 
 ## 🏋️ Pretrained Models
