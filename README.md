@@ -56,6 +56,6 @@ We also provide the pretrained models.
 
 | Model                                                                                                                                                      | Description
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------| :----------
-| [pretrained-model]([https://stuouceducn-my.sharepoint.com/:u:/g/personal/liyunfei_x_stu_ouc_edu_cn/EbDYY5UOmbBAjQOy8mOH0EQBaNtDJ8idUdhjvfhbzT55sg?e=fZTLg5](https://stuouceducn-my.sharepoint.com/:u:/g/personal/liyunfei_x_stu_ouc_edu_cn/IQDkizgWQFj6T6yTWEPyr6bMAa2yOi6onEbCEcded35wkTA?e=ZjQaiM)) | Trained on FF++ c23 set.
+| [pretrained-model]([https://stuouceducn-my.sharepoint.com/:u:/g/personal/liyunfei_x_stu_ouc_edu_cn/IQDkizgWQFj6T6yTWEPyr6bMAa2yOi6onEbCEcded35wkTA?e=ZjQaiM] | Trained on FF++ c23 set.
 
 
