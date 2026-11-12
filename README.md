@@ -3,7 +3,7 @@
 <h1>Location-Guided Discriminative Learning for Face Forgery Detection</h1>
 
 <div>
-    <a href='https://yunfeili-heng.github.io//' target='_blank'>Yunfei Li</a>,
+    Yunfei Li,
     <a href='https://homepage.hit.edu.cn/guopuzhu//' arget='_blank'>Guopu Zhu<sup>*</sup></a>,
   <a href='https://yuezunli.github.io//' target='_blank'>Yuezun Li</a>,
     Yicong Zhou, Hongli Zhang, Xingpeng Zhang
