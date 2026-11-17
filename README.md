@@ -6,7 +6,7 @@
     Yunfei Li,
     <a href='https://homepage.hit.edu.cn/guopuzhu//' arget='_blank'>Guopu Zhu<sup>*</sup></a>,
   <a href='https://yuezunli.github.io//' target='_blank'>Yuezun Li</a>,
-    Yicong Zhou, Hongli Zhang, Xingpeng Zhang
+    Yicong Zhou, Feng Ding, Hongli Zhang, Xingpeng Zhang
 </div>
 <div>
     Harbin Institute of Technology;
